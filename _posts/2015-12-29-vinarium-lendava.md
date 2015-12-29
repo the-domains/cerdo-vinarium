@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:28:14.195Z'
-dateModified: '2015-12-29T19:28:08.523Z'
-title: Vinarium Lendava
+datePublished: '2015-12-29T19:39:32.624Z'
+dateModified: '2015-12-29T19:39:20.802Z'
+title: O Vinarium Lendava
 author: []
 sourcePath: _posts/2015-12-29-vinarium-lendava.md
 published: true
@@ -22,7 +22,7 @@ url: vinarium-lendava/index.html
 _type: Article
 
 ---
-# Vinarium Lendava
+# O Vinarium Lendava
 
 ## Razgledovanje po Prekmurju se prične v Vinariumu Lendava
 
@@ -38,4 +38,8 @@ naužijete prekrasnega razgleda, naredite čudovite fotografije in
 posnamete dih jemajoč »selfie« več kot 50 m nad zemljo, vabljeni v 
 pritličje na dišeče domače kulinarične užitke, pokušino vrhunskih 
 lokalnih vin in sokov. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a60400c-a964-4e68-bddb-543ea9ed6bc6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd724f9c-ea73-4d73-aecd-4124b9f4e951.jpg)
+null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c86713e-52e0-4d1d-8b0b-cc3cd7e05daa.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be441fbc-89cf-4af3-8d33-0fb9feabde9e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e238bb30-64a7-4c19-856c-147c14a1355d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c574e7b1-34bb-41e4-8f2c-72ffcae9adfd.jpg)
