@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:26:17.923Z'
-dateModified: '2015-12-29T19:26:10.543Z'
+datePublished: '2015-12-29T19:47:33.463Z'
+dateModified: '2015-12-29T19:47:29.393Z'
 title: Vinska cesta
 author: []
 sourcePath: _posts/2015-12-29-vinska-cesta.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: vinska-cesta/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Vinska cesta
