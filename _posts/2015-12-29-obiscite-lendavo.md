@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:46:07.727Z'
-dateModified: '2015-12-29T19:46:00.543Z'
+datePublished: '2015-12-29T19:48:28.172Z'
+dateModified: '2015-12-29T19:48:20.366Z'
 title: Obiščite Lendavo
 author: []
 sourcePath: _posts/2015-12-29-obiscite-lendavo.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: obiscite-lendavo/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Obiščite Lendavo
