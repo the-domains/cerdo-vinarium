@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: opis vinske cete
-datePublished: '2015-12-29T18:59:07.403Z'
-dateModified: '2015-12-29T18:58:49.133Z'
+description: ''
+datePublished: '2015-12-29T19:01:38.081Z'
+dateModified: '2015-12-29T19:01:31.170Z'
 title: Vinska cesta
 author: []
 sourcePath: _posts/2015-12-29-vinska-cesta.md
