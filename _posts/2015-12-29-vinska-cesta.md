@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T20:32:48.542Z'
-dateModified: '2015-12-29T20:32:34.454Z'
+datePublished: '2015-12-29T20:38:42.651Z'
+dateModified: '2015-12-29T20:38:36.573Z'
 title: Vinska cesta
 author: []
 sourcePath: _posts/2015-12-29-vinska-cesta.md
@@ -29,6 +29,6 @@ njej pa se lahko obiskovalci ustavijo v kakem izmed vinotočev ali
 izletniških kmetij. Domači vinogradniki gostom največkrat ponudijo laški
 rizling ter chardonnay.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b38ddde-f0fa-4654-905e-83b663138f1e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fbffc5-1004-4bce-a243-6703af2d056a.jpg)
 
 V Lendavi prevladujejo bela vina, s pridelavo rdečih sort so nekateri vinogradniki pričeli v preteklih letih.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fbffc5-1004-4bce-a243-6703af2d056a.jpg)
