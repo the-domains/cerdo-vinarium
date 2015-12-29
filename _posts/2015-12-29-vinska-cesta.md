@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T18:53:32.116Z'
-dateModified: '2015-12-29T18:51:37.801Z'
+description: opis vinske cete
+datePublished: '2015-12-29T18:59:07.403Z'
+dateModified: '2015-12-29T18:58:49.133Z'
 title: Vinska cesta
 author: []
+sourcePath: _posts/2015-12-29-vinska-cesta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-vinska-cesta.md
-published: true
 url: vinska-cesta/index.html
 _type: Article
 
@@ -31,3 +31,4 @@ rizling ter chardonnay.
 
 V Lendavi prevladujejo bela vina, s pridelavo rdečih sort so nekateri vinogradniki pričeli v preteklih letih.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c89794d7-9091-4e4c-8ee3-bc43baa073c7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cb28a39-152e-4ad1-a63e-2b0b7997a798.jpg)
