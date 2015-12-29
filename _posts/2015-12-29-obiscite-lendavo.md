@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T18:53:24.402Z'
-dateModified: '2015-12-29T18:51:02.113Z'
+datePublished: '2015-12-29T19:27:42.196Z'
+dateModified: '2015-12-29T19:27:32.102Z'
 title: Obiščite Lendavo
 author: []
+sourcePath: _posts/2015-12-29-obiscite-lendavo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-obiscite-lendavo.md
-published: true
 url: obiscite-lendavo/index.html
 _type: Article
 
@@ -35,4 +35,5 @@ narodnostno mešane občine, saj v njenih naseljih -- razen Benice in
 Hotize -- ob večinskem slovenskem narodu živi avtohtona madžarska 
 narodnostna skupnost.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f62fe57f-4ebe-4b24-9d00-d778183400c3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd41c20-89f0-4433-ba90-9685d1e0ffc7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a358739-ac21-4970-bc61-75e08d00af8c.jpg)
