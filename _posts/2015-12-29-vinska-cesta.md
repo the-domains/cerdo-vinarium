@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:47:33.463Z'
-dateModified: '2015-12-29T19:47:29.393Z'
+datePublished: '2015-12-29T20:32:48.542Z'
+dateModified: '2015-12-29T20:32:34.454Z'
 title: Vinska cesta
 author: []
 sourcePath: _posts/2015-12-29-vinska-cesta.md
@@ -28,7 +28,7 @@ Lendavska vinska turistična cesta je najvzhodnejša v državi, ob
 njej pa se lahko obiskovalci ustavijo v kakem izmed vinotočev ali 
 izletniških kmetij. Domači vinogradniki gostom največkrat ponudijo laški
 rizling ter chardonnay.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b38ddde-f0fa-4654-905e-83b663138f1e.jpg)
 
 V Lendavi prevladujejo bela vina, s pridelavo rdečih sort so nekateri vinogradniki pričeli v preteklih letih.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cb28a39-152e-4ad1-a63e-2b0b7997a798.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c89794d7-9091-4e4c-8ee3-bc43baa073c7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fbffc5-1004-4bce-a243-6703af2d056a.jpg)
