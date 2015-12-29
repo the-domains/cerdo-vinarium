@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:27:42.196Z'
-dateModified: '2015-12-29T19:27:32.102Z'
+datePublished: '2015-12-29T19:30:10.473Z'
+dateModified: '2015-12-29T19:30:06.189Z'
 title: Obiščite Lendavo
 author: []
 sourcePath: _posts/2015-12-29-obiscite-lendavo.md
