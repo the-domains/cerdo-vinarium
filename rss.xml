@@ -4,8 +4,15 @@
         <description><![CDATA[cerdo.vinarium]]></description>
         <link>https://thegrid.ai/cerdo-vinarium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 19:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 19:30:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cerdo-vinarium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Obiščite Lendavo]]></title>
+            <description><![CDATA[<article><h1>Obiščite Lendavo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f5f3c97053f1a7ab9faafaca47394710fb73f75.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cerdo-vinarium/obiscite-lendavo/index.html</link>
+            <guid isPermaLink="false">fee53042-39fb-447c-9034-5632a98f2ebc</guid>
+            <pubDate>Tue, 29 Dec 2015 19:30:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vinarium Lendava]]></title>
             <description><![CDATA[<article><h1>Vinarium Lendava</h1><h2>Razgledovanje po Prekmurju se prične v Vinariumu Lendava</h2><p>
@@ -54,13 +61,6 @@ izletniških kmetij. Domači vinogradniki gostom največkrat ponudijo laški
             <link>https://thegrid.ai/cerdo-vinarium/vinska-cesta/index.html</link>
             <guid isPermaLink="false">3f2c08b4-3d7f-4ba4-a691-a69198de834d</guid>
             <pubDate>Tue, 29 Dec 2015 19:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obiščite Lendavo]]></title>
-            <description><![CDATA[<article><h1>Obiščite Lendavo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f5f3c97053f1a7ab9faafaca47394710fb73f75.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cerdo-vinarium/obiscite-lendavo/index.html</link>
-            <guid isPermaLink="false">fee53042-39fb-447c-9034-5632a98f2ebc</guid>
-            <pubDate>Tue, 29 Dec 2015 19:27:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
