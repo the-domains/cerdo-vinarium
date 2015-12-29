@@ -1,6 +1,6 @@
 name: cerdo.vinarium
 favicon: null
-layout_spectrum: 0.00301
+layout_spectrum: 0.2509
 typography_spectrum: 0.50335
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#362b25'
-    - '#e6dce4'
-    - '#0057c5'
-    - '#677dd2'
-    - '#ffd800'
+    - '#fccda4'
+    - '#3b3422'
+    - '#7e6761'
+    - '#100703'
+    - '#f6f6f6'
   brandStrength: 0.5
   lightness: 0.25
   saturation: 0.1875
