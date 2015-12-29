@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T20:10:34.751Z'
-dateModified: '2015-12-29T20:09:48.487Z'
+datePublished: '2015-12-29T20:14:17.387Z'
+dateModified: '2015-12-29T20:14:09.387Z'
 title: Obiščite Lendavo
 author: []
 sourcePath: _posts/2015-12-29-obiscite-lendavo.md
@@ -22,6 +22,8 @@ url: obiscite-lendavo/index.html
 _type: WebPage
 
 ---
+# 
+
 # Obiščite Lendavo
 
 Lendava se razprostira na skrajnem vzhodu Slovenije blizu 
@@ -35,8 +37,11 @@ narodnostno mešane občine, saj v njenih naseljih -- razen Benice in
 Hotize -- ob večinskem slovenskem narodu živi avtohtona madžarska 
 narodnostna skupnost.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f62fe57f-4ebe-4b24-9d00-d778183400c3.jpg)
+null
 
-CERKEV SVETE KATARINE
+# **CERKEV SVETE KATARINE
+**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/254aa412-6050-406b-8a59-5cefb39d5cd1.jpg)
 
 Duhovno središče Lendave predstavlja 
 trg okrog cerkve svete Katarine. Lahko bi rekli, da se prav na tem kraju
@@ -60,16 +65,14 @@ cerkev, ki jo je dal postaviti Kristóf Bánffy leta 1608 v spomin na boje
 proti Turkom. Kot zavetnik cerkve je rodbina Esterházy na mestu sedanje
 cerkve postavila najprej manjšo, nato pa v letih med 1749 in 1751, 
 sedanjo cerkev svete Katarine.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/254aa412-6050-406b-8a59-5cefb39d5cd1.jpg)
 
-G
-
-LEDALIŠKA IN KONCERTNA DVORANA
+# GLEDALIŠKA IN KONCERTNA DVORANA
 
 Za stavbo, v kateri se nahaja 
 gledališka in koncertna dvorana, oziroma kulturni dom, kot radi povemo, 
 pogosto slišimo, da je nenavadna, pritegne pozornost mimoidočega. Ali je
 obiskovalcu všeč ali ne, je pač stvar okusa.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a358739-ac21-4970-bc61-75e08d00af8c.jpg)
 
 Treba pa je poudariti, da gre za delo enega najvidnejših madžarskih arhitektov, priznanega tudi po svetu - Imreja Makovcza.
 
@@ -82,4 +85,3 @@ Zgradba se razprostira na 1.400 m2, v notranjosti je pa 2.400 m2
 uporabnih površin. Dvorana s 444 sedeži, velikim odrom in profesionalno 
 opremo omogoča izvedbo vseh vrst gledaliških, glasbenih, plesnih 
 prireditev, primerna je pa tudi za kongresne in seminarske prireditve.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a358739-ac21-4970-bc61-75e08d00af8c.jpg)
