@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-29T19:08:38.331Z'
-dateModified: '2015-12-29T19:07:21.216Z'
+datePublished: '2015-12-29T19:16:21.313Z'
+dateModified: '2015-12-29T19:16:15.522Z'
 title: Vinarium Lendava
 author: []
 sourcePath: _posts/2015-12-29-vinarium-lendava.md
@@ -55,5 +55,7 @@ informacijami skozi ves življenjski cikel objekta. S trajnostnimi
 pristopi v načrtovanju in gradnji objektov povečujemo varčno rabo 
 energije in virov z najmanjšimi možnimi negativnimi vplivi na okolje in 
 ekosisteme.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1886b76-616a-471a-ad03-96e0a54d1bd9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a76302c-df26-4182-b082-c74d01767290.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aae6484e-0ccb-4b2c-a4ee-ad4a3878b1bc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1059da-ef31-4f1a-831d-30247eb558e0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad88c74-02d8-457a-9536-cdf0bea89094.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/291a83c4-2ecb-423f-aa89-aa120f5432c9.jpg)
