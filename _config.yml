@@ -6,12 +6,12 @@ color:
     - '#7e6761'
     - '#100703'
     - '#f6f6f6'
-  brandStrength: 0
+  brandStrength: 0.327703
   lightness: 0.5
   rhythmicContrast: 0.5
   saturation: 0.5
 cta: {}
-layout_spectrum: 0.239865
+layout_spectrum: 0.44848
 name: cerdo.vinarium
 opengraph: {}
 purpose: []
