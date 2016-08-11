@@ -1,4 +1,19 @@
-analytics: {}
+name: cerdo.vinarium
+favicon: null
+layout_spectrum: 0.44848
+typography_spectrum: 0.844595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fccda4'
@@ -6,13 +21,8 @@ color:
     - '#7e6761'
     - '#100703'
     - '#f6f6f6'
-  brandStrength: 0.327703
-  lightness: 0.5
-  rhythmicContrast: 0.5
-  saturation: 0.5
-cta: {}
-layout_spectrum: 0.44848
-name: cerdo.vinarium
-opengraph: {}
+  brandStrength: 0.4375
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.844595
