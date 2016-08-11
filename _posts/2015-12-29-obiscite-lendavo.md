@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-11T06:08:46.396Z'
-dateModified: '2016-08-11T06:06:47.364Z'
+datePublished: '2016-08-11T06:10:28.248Z'
+dateModified: '2016-08-11T06:10:26.921Z'
 publisher: {}
 author: []
 inFeed: false
@@ -16,7 +16,9 @@ url: obiscite-lendavo/index.html
 _type: WebPage
 
 ---
-Cuckoo Restaurant https://goo.gl/maps/jDtoQ8p1NH32 
+<iframe src="https://the-grid.github.io/ed-location/?latitude=38.996441&amp;longitude=-3.41562&amp;zoom=10&amp;address=13200%2C%20Ciudad%20Real%2C%20Spain" style=""></iframe>
+
+    Cuckoo Restaurant https://goo.gl/maps/jDtoQ8p1NH32 
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61e0670926318c2ebda9ce3731050b54d467f8e2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca65b35eec29b91fab609be83c8e624822543e73.jpg)
