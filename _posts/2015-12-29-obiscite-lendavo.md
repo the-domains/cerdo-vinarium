@@ -1,21 +1,15 @@
 ---
+keywords: []
+title: ''
+datePublished: '2016-08-11T07:31:39.166Z'
+dateModified: '2016-08-11T07:31:36.728Z'
+publisher: {}
+author: []
 inFeed: false
 hasPage: true
 inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-11T07:29:21.931Z'
-dateModified: '2016-08-11T07:07:43.549Z'
-title: ''
-author: []
+description: Test
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 starred: false
 sourcePath: _posts/2015-12-29-obiscite-lendavo.md
 url: obiscite-lendavo/index.html
@@ -28,10 +22,12 @@ _type: WebPage
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1470896311626!6m8!1m7!1sWIiuDp05Y9QAAAQ1mGJ8vg!2m2!1d-37.7981122221837!2d144.9751445859944!3f56!4f0!5f0.4000000000000002" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
 
-test DIDIdidiDI
+Test
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61e0670926318c2ebda9ce3731050b54d467f8e2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca65b35eec29b91fab609be83c8e624822543e73.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/66e304c51c6491fda1fd6809212319e055187294.jpg)
+
+test DIDIdidiDI
 
 # Obiščite Lendavo
 
