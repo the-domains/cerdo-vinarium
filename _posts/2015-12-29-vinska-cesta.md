@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: 'Vinska cesta. '
-datePublished: '2016-08-19T19:24:42.565Z'
-dateModified: '2016-08-19T19:23:53.972Z'
+datePublished: '2016-08-19T19:28:53.270Z'
+dateModified: '2016-08-19T19:28:53.173Z'
 publisher: {}
 author: []
 inFeed: false
@@ -13,8 +13,8 @@ description: >-
   lahko obiskovalci ustavijo v kakem izmed vinotočev ali izletniških kmetij.
   Domači vinogradniki gostom največkrat ponudijo laški rizling ter chardonnay.
 via: {}
-starred: false
 sourcePath: _posts/2015-12-29-vinska-cesta.md
+starred: false
 url: vinska-cesta/index.html
 _type: WebPage
 
