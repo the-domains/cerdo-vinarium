@@ -11,13 +11,17 @@ description: |-
   stolp ponosno postavljen, pa vse tja do porečja Mure, in zajame 
   prekrasen razgled na ravnice in gričevja Slovenije, Madžarske, Hrvaške 
   in Avstrije.
-datePublished: '2016-08-19T19:30:09.568Z'
-dateModified: '2016-08-19T19:30:09.481Z'
+datePublished: '2016-08-19T19:29:13.791Z'
+dateModified: '2016-08-19T19:29:13.661Z'
 title: O Vinarium Lendava
 author: []
 sourcePath: _posts/2015-12-29-vinarium-lendava.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 via: {}
 starred: false
 url: o-vinarium-lendava/index.html
