@@ -1,19 +1,4 @@
-name: cerdo.vinarium
-favicon: null
-layout_spectrum: 0.44848
 typography_spectrum: 0.844595
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fccda4'
@@ -25,4 +10,23 @@ color:
   lightness: 0.375
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44848
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cerdo.vinarium
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: O Vinarium Lendava
+    id: 1cd16803-df7e-4968-8ab5-99113e45cb1c
+    type: content
+favicon: null
 purpose: []
