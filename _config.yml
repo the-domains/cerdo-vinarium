@@ -28,5 +28,8 @@ navigation:
   - name: O Vinarium Lendava
     id: 1cd16803-df7e-4968-8ab5-99113e45cb1c
     type: content
+  - name: 'Vinska cesta. '
+    id: e131b8ea-f368-4ef8-9ad2-6159b37f636d
+    type: content
 favicon: null
 purpose: []
