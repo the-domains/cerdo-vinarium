@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-21T20:59:16.006Z'
-dateModified: '2016-08-21T20:59:04.679Z'
+datePublished: '2016-08-29T09:11:36.875Z'
+dateModified: '2016-08-29T09:11:36.685Z'
 publisher: {}
 author: []
 inFeed: false
@@ -10,8 +10,8 @@ hasPage: true
 inNav: true
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2015-12-29-obiscite-lendavo.md
+starred: false
 url: obiscite-lendavo/index.html
 _type: WebPage
 
