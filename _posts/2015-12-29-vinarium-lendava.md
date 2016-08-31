@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: O Vinarium Lendava
-datePublished: '2016-08-29T09:10:49.588Z'
-dateModified: '2016-08-29T09:10:49.056Z'
+datePublished: '2016-08-29T09:11:36.815Z'
+dateModified: '2016-08-29T09:11:36.685Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,8 +10,8 @@ hasPage: true
 inNav: true
 description: ' Razgledni stolp Vinarium Lendava, visok 53,5 m, vam ponuja prekrasen 360° pogled na barvito pokrajino, ki sega od Lendavskih goric, kjer je stolp ponosno postavljen, pa vse tja do porečja Mure, in zajame prekrasen razgled na ravnice in gričevja Slovenije, Madžarske, Hrvaške in Avstrije.'
 via: {}
-starred: true
 sourcePath: _posts/2015-12-29-vinarium-lendava.md
+starred: true
 url: o-vinarium-lendava/index.html
 _type: Article
 
